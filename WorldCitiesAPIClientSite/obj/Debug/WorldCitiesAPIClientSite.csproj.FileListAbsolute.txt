@@ -1,0 +1,245 @@
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\WorldCitiesAPIClientSite.dll.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\WorldCitiesAPIClientSite.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\WorldCitiesAPIClientSite.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\csc.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Collections.Immutable.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.IO.FileSystem.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.ValueTuple.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Antlr3.Runtime.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Microsoft.Web.Infrastructure.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Newtonsoft.Json.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Helpers.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Mvc.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Optimization.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Razor.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Deployment.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.WebPages.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Razor.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\WebGrease.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Helpers.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Mvc.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Optimization.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.Razor.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.WebPages.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Deployment.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Razor.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Newtonsoft.Json.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Antlr3.Runtime.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.csproj.AssemblyReference.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.csproj.CoreCompileInputs.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\obj\Debug\WorldCit.8280AEBD.Up2Date
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\Json.NET.Web.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\System.Net.Http.Formatting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\WorldCitiesAPIClientSite.dll.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\WorldCitiesAPIClientSite.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\WorldCitiesAPIClientSite.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\csc.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\csc.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\csc.rsp
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\csi.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\csi.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\csi.rsp
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.AppContext.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Collections.Immutable.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Console.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Globalization.Calendars.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.IO.Compression.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.IO.FileSystem.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Net.Http.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Net.Sockets.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Reflection.Metadata.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.ValueTuple.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Xml.XPath.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\vbc.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\vbc.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\vbc.rsp
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\VBCSCompiler.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\roslyn\VBCSCompiler.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Antlr3.Runtime.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Json.NET.Web.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Microsoft.Web.Infrastructure.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Newtonsoft.Json.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Net.Http.Formatting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Helpers.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Mvc.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Optimization.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Razor.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.WebPages.Deployment.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.WebPages.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.WebPages.Razor.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\WebGrease.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Helpers.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Mvc.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Optimization.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.Razor.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.WebPages.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.WebPages.Deployment.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\System.Web.WebPages.Razor.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Newtonsoft.Json.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Antlr3.Runtime.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\obj\Debug\WorldCitiesAPIClientSite.csproj.AssemblyReference.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\obj\Debug\WorldCitiesAPIClientSite.csproj.CoreCompileInputs.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\obj\Debug\WorldCit.8280AEBD.Up2Date
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\obj\Debug\WorldCitiesAPIClientSite.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite - Copy\obj\Debug\WorldCitiesAPIClientSite.pdb
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\WorldCitiesAPIClientSite.dll.config
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\WorldCitiesAPIClientSite.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\WorldCitiesAPIClientSite.pdb
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\csc.exe
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\csc.exe.config
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\csc.rsp
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\csi.exe
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\csi.exe.config
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\csi.rsp
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.AppContext.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Collections.Immutable.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Console.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Globalization.Calendars.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.IO.Compression.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.IO.FileSystem.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Net.Http.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Net.Sockets.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.ValueTuple.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.XPath.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\vbc.exe
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\vbc.exe.config
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\vbc.rsp
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\VBCSCompiler.exe
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\roslyn\VBCSCompiler.exe.config
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Antlr3.Runtime.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Json.NET.Web.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Microsoft.Web.Infrastructure.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Newtonsoft.Json.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Net.Http.Formatting.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Helpers.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Mvc.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Optimization.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Razor.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Deployment.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.WebPages.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Razor.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\WebGrease.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Helpers.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Mvc.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Optimization.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.Razor.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.WebPages.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Deployment.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\System.Web.WebPages.Razor.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Newtonsoft.Json.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Antlr3.Runtime.pdb
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.csproj.AssemblyReference.cache
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.csproj.CoreCompileInputs.cache
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\obj\Debug\WorldCit.8280AEBD.Up2Date
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\obj\Debug\WorldCitiesAPIClientSite.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\csc.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\csc.rsp
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\csi.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\csi.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\csi.rsp
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.AppContext.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Console.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Globalization.Calendars.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.IO.Compression.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Net.Http.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Net.Sockets.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.XPath.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\vbc.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\vbc.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\vbc.rsp
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\VBCSCompiler.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\VBCSCompiler.exe.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\PagedList.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\PagedList.xml

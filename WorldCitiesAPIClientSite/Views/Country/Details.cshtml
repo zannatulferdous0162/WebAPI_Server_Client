@@ -1,0 +1,26 @@
+﻿@model WorldCitiesAPIClientSite.Models.Country
+
+@{
+    ViewBag.Title = "Country Details";
+}
+
+<h2>Country Details</h2>
+
+<div>
+    <h4>Country</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Name</dt>
+        <dd>@Model.Name</dd>
+
+        <dt>ISO2</dt>
+        <dd>@Model.ISO2</dd>
+
+        <dt>ISO3</dt>
+        <dd>@Model.ISO3</dd>
+    </dl>
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

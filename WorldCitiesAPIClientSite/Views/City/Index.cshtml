@@ -1,0 +1,70 @@
+﻿@*@model IEnumerable<WorldCitiesAPIClientSite.Models.City>*@
+
+@model PagedList.IPagedList<WorldCitiesAPIClientSite.Models.City>
+@using PagedList;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New City", "Create")
+</p>
+
+
+@using (Html.BeginForm("Index", "City", FormMethod.Get))
+{<div class="d-flex align-items-center">
+        <div>
+            <b>Records per page:</b> @Html.TextBox("pageSize", ViewBag.CurrentPageSize as string)
+            <input type="submit" value="Set" class="btn btn-primary btn-sm" />
+        </div>
+    </div>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            City Name
+        </th>
+        <th>
+            Country Name
+        </th>
+        <th>
+            Latitude
+        </th>
+        <th>
+            Longitude
+        </th>
+        <th>
+            Action
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CountryName) <!-- Displaying Country Name -->
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lat) <!-- Displaying Latitude -->
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lon) <!-- Displaying Longitude -->
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

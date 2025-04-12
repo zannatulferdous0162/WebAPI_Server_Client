@@ -1,0 +1,1822 @@
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Web.config
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\appsettings.json
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\libman.json
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.exe
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.deps.json
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.runtimeconfig.json
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.pdb
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Azure.Core.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Azure.Identity.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\EPPlus.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Humanizer.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Common.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\20230817\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.AssemblyReference.cache
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfoInputs.cache
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfo.cs
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CoreCompileInputs.cache
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.WorldCitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WorldCitiesAPI.props
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorldCitiesAPI.props
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorldCitiesAPI.props
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\scopedcss\bundle\WorldCitiesAPI.styles.css
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CopyComplete
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.dll
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\refint\WorldCitiesAPI.dll
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.pdb
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.genruntimeconfig.cache
+F:\Angular\20230817\WorldCitiesAPI\obj\Debug\net6.0\ref\WorldCitiesAPI.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Web.config
+G:\WorldCitiesAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\WorldCitiesAPI\bin\Debug\net6.0\appsettings.json
+G:\WorldCitiesAPI\bin\Debug\net6.0\libman.json
+G:\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.exe
+G:\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.deps.json
+G:\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.runtimeconfig.json
+G:\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.pdb
+G:\WorldCitiesAPI\bin\Debug\net6.0\Azure.Core.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Azure.Identity.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\EPPlus.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Humanizer.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Common.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.AssemblyReference.cache
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfoInputs.cache
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfo.cs
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CoreCompileInputs.cache
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.WorldCitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WorldCitiesAPI.props
+G:\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorldCitiesAPI.props
+G:\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorldCitiesAPI.props
+G:\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+G:\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\WorldCitiesAPI\obj\Debug\net6.0\scopedcss\bundle\WorldCitiesAPI.styles.css
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CopyComplete
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.dll
+G:\WorldCitiesAPI\obj\Debug\net6.0\refint\WorldCitiesAPI.dll
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.pdb
+G:\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.genruntimeconfig.cache
+G:\WorldCitiesAPI\obj\Debug\net6.0\ref\WorldCitiesAPI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Web.config
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\libman.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.exe
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.deps.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.runtimeconfig.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.pdb
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.AssemblyReference.cache
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfoInputs.cache
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfo.cs
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.WorldCitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WorldCitiesAPI.props
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorldCitiesAPI.props
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorldCitiesAPI.props
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\scopedcss\bundle\WorldCitiesAPI.styles.css
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CopyComplete
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\refint\WorldCitiesAPI.dll
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.pdb
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.genruntimeconfig.cache
+C:\Users\Foysal\Desktop\T\WorldCitiesAPI\obj\Debug\net6.0\ref\WorldCitiesAPI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Web.config
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\appsettings.json
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\libman.json
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.exe
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.deps.json
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.runtimeconfig.json
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.pdb
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Azure.Core.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Azure.Identity.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\EPPlus.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Humanizer.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Common.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\WorldCity\1280326\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.AssemblyReference.cache
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfoInputs.cache
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfo.cs
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CoreCompileInputs.cache
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.WorldCitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WorldCitiesAPI.props
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorldCitiesAPI.props
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorldCitiesAPI.props
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\scopedcss\bundle\WorldCitiesAPI.styles.css
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCit.EC9166D4.Up2Date
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\refint\WorldCitiesAPI.dll
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.pdb
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.genruntimeconfig.cache
+G:\WorldCity\1280326\WorldCitiesAPI\obj\Debug\net6.0\ref\WorldCitiesAPI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.AssemblyReference.cache
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfoInputs.cache
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfo.cs
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CoreCompileInputs.cache
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\refint\WorldCitiesAPI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.pdb
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Web.config
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\appsettings.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\libman.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.staticwebassets.endpoints.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.exe
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.deps.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.runtimeconfig.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.pdb
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\EPPlus.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Humanizer.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Common.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\scopedcss\bundle\WorldCitiesAPI.styles.css
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.WorldCitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.WorldCitiesAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WorldCitiesAPI.props
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorldCitiesAPI.props
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorldCitiesAPI.props
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCit.EC9166D4.Up2Date
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.genruntimeconfig.cache
+E:\IsDB R62\Module_9\WorldCitiesAPI\obj\Debug\net6.0\ref\WorldCitiesAPI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Web.config
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\appsettings.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\libman.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.deps.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.runtimeconfig.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\EPPlus.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Humanizer.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Common.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.AssemblyReference.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfoInputs.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.AssemblyInfo.cs
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CoreCompileInputs.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.WorldCitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WorldCitiesAPI.props
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorldCitiesAPI.props
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorldCitiesAPI.props
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\scopedcss\bundle\WorldCitiesAPI.styles.css
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCit.EC9166D4.Up2Date
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\refint\WorldCitiesAPI.dll
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.pdb
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.genruntimeconfig.cache
+D:\IDB_R62_Juhan\Module09\WorldCitiesAPI\obj\Debug\net6.0\ref\WorldCitiesAPI.dll

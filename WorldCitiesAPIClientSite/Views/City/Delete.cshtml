@@ -1,0 +1,57 @@
+﻿@model WorldCitiesAPIClientSite.Models.City
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>City</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <!-- Name Field -->
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <!-- Country Field -->
+        <dt>
+            @Html.DisplayNameFor(model => model.CountryId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CountryId)
+        </dd>
+
+        <!-- Latitude Field -->
+        <dt>
+            @Html.DisplayNameFor(model => model.Lat)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Lat)
+        </dd>
+
+        <!-- Longitude Field -->
+        <dt>
+            @Html.DisplayNameFor(model => model.Lon)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Lon)
+        </dd>
+    </dl>
+
+    <!-- Delete Confirmation Form -->
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

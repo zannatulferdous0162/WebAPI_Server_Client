@@ -1,0 +1,110 @@
+﻿@model WorldCitiesAPIClientSite.Models.CountryWithCitiesViewModel
+
+@{
+    ViewBag.Title = "Create Country with Cities";
+}
+
+<h2>Create Country with Cities</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Country</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <!-- Country Name -->
+    <div class="form-group">
+        @Html.LabelFor(model => model.Country.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Country.Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Country.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <!-- ISO2 -->
+    <div class="form-group">
+        @Html.LabelFor(model => model.Country.ISO2, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Country.ISO2, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Country.ISO2, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <!-- ISO3 -->
+    <div class="form-group">
+        @Html.LabelFor(model => model.Country.ISO3, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Country.ISO3, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Country.ISO3, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+
+
+    <!-- Cities (Master-Detail part) -->
+    <div class="form-group">
+        <label class="control-label col-md-2">Cities</label>
+        <div class="col-md-10">
+            <div id="cities-container">
+                @for (int i = 0; i < Model.Cities.Count; i++)
+                {
+                    <div class="city-row">
+                        <label for="Cities[@i].Name">City Name</label>
+                        @Html.EditorFor(model => model.Cities[i].Name, new { htmlAttributes = new { @class = "form-control" } })
+                        <br />
+
+                        <label for="Cities[@i].Lat">Latitude</label>
+                        @Html.EditorFor(model => model.Cities[i].Lat, new { htmlAttributes = new { @class = "form-control" } })
+                        <br />
+
+                        <label for="Cities[@i].Lon">Longitude</label>
+                        @Html.EditorFor(model => model.Cities[i].Lon, new { htmlAttributes = new { @class = "form-control" } })
+                        <br />
+                    </div>
+                }
+            </div>
+
+            <!-- Add a new city -->
+            <button type="button" class="btn btn-primary" id="addCity">Add City</button>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create Country with Cities" class="btn btn-outline-primary" />
+        </div>
+    </div>
+</div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+        $(function () {
+            let cityIndex = @Model.Cities.Count;
+
+            $("#addCity").click(function () {
+                var cityHtml = `
+                    <div class="city-row">
+                        <label>City Name</label>
+                        <input type="text" name="Cities[${cityIndex}].Name" class="form-control" />
+
+                        <label>Latitude</label>
+                        <input type="text" name="Cities[${cityIndex}].Lat" class="form-control" />
+
+                        <label>Longitude</label>
+                        <input type="text" name="Cities[${cityIndex}].Lon" class="form-control" />
+                        <hr/>
+                    </div>
+                `;
+                $("#cities-container").append(cityHtml);
+                cityIndex++;
+            });
+        });
+    </script>
+}
