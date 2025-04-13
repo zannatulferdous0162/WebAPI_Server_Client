@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {}
+    "D:\\AspNet Core\\WebAPI_Server_Client\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {}
   },
   "projects": {
-    "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {
+    "D:\\AspNet Core\\WebAPI_Server_Client\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
+        "projectUniqueName": "D:\\AspNet Core\\WebAPI_Server_Client\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
         "projectName": "WorldCitiesAPI",
-        "projectPath": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
-        "packagesPath": "C:\\Users\\IDB_C#\\.nuget\\packages\\",
-        "outputPath": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPI\\obj\\",
+        "projectPath": "D:\\AspNet Core\\WebAPI_Server_Client\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
+        "packagesPath": "C:\\Users\\HASSAN AL BANNA\\.nuget\\packages\\",
+        "outputPath": "D:\\AspNet Core\\WebAPI_Server_Client\\WorldCitiesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\IDB_C#\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HASSAN AL BANNA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -124,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

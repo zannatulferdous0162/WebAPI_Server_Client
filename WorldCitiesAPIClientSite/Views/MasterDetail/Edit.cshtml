@@ -1,0 +1,105 @@
+﻿@model WorldCitiesAPIClientSite.Models.CountryWithCitiesViewModel
+
+@using (Html.BeginForm("Edit", "MasterDetail", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <!-- Country Info -->
+    <div>
+        <label>Name</label>
+        @*@Html.TextBoxFor(model => model.Country.Name, new { @class = "form-control" })*@
+        @Html.TextBoxFor(m => m.Country.Name, new { @class = "form-control" })
+
+    </div>
+    <div>
+        <label>ISO2</label>
+        @Html.TextBoxFor(model => model.Country.ISO2, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>ISO3</label>
+        @Html.TextBoxFor(model => model.Country.ISO3, new { @class = "form-control" })
+    </div>
+
+    <h3>Cities</h3>
+    <table id="cityTable" class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Lat</th>
+                <th>Lon</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>            
+            @if (Model.Cities != null && Model.Cities.Count > 0)
+            {
+                for (int i = 0; i < Model.Cities.Count; i++)
+                {
+                    <tr>
+                        @Html.HiddenFor(m => m.Cities[i].Id)
+                        @Html.HiddenFor(m => m.Cities[i].CountryId)
+                        <td>@Html.TextBoxFor(m => m.Cities[i].Name, new { @class = "form-control" })</td>
+                        <td>@Html.TextBoxFor(m => m.Cities[i].Lat, new { @class = "form-control" })</td>
+                        <td>@Html.TextBoxFor(m => m.Cities[i].Lon, new { @class = "form-control" })</td>
+                        <td>
+                            <button type="button" class="btn btn-danger remove-city-btn">Remove</button>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+
+    <button type="button" onclick="addCityRow()">Add City</button>
+    <br />
+
+    <input type="hidden" id="deletedCityIds" name="DeletedCityIds" />
+    <input type="submit" value="Save" class="btn btn-primary" />
+}
+
+<script>
+    let _cityIndex = @(Model.Cities != null ? Model.Cities.Count : 0);
+
+    function addCityRow() {
+        const table = document.querySelector("#cityTable tbody");
+
+        const newRow = document.createElement("tr");
+        newRow.innerHTML = `
+            <td><input type="text" name="Cities[${_cityIndex}].Name" class="form-control" /></td>
+            <td><input type="text" name="Cities[${_cityIndex}].Lat" class="form-control" /></td>
+            <td><input type="text" name="Cities[${_cityIndex}].Lon" class="form-control" /></td>
+            <td>
+                <button type="button" class="btn btn-danger remove-city-btn">Remove</button>
+                <input type="hidden" name="Cities[${_cityIndex}].Id" value="0" />
+                <input type="hidden" name="Cities[${_cityIndex}].CountryId" value="@Model.Country.Id" />
+            </td>
+        `;
+        table.appendChild(newRow);
+        _cityIndex++;
+        attachRemoveEvents();
+    }
+
+    function attachRemoveEvents() {
+        document.querySelectorAll(".remove-city-btn").forEach(button => {
+            button.onclick = function () {
+                const row = this.closest("tr");
+                const cityIdInput = row.querySelector("input[name*='Id']");
+                const cityId = cityIdInput?.value;
+
+                if (cityId && cityId !== "0") {
+                    const deletedIdsInput = document.getElementById("deletedCityIds");
+                    let deletedIds = deletedIdsInput.value ? deletedIdsInput.value.split(',') : [];
+                    deletedIds.push(cityId);
+                    deletedIdsInput.value = deletedIds.join(',');
+                }
+
+                row.remove();
+            };
+        });
+    }
+
+    // Attach remove event handlers on initial load for existing rows
+    window.onload = function () {
+        attachRemoveEvents();
+    };
+</script>
+

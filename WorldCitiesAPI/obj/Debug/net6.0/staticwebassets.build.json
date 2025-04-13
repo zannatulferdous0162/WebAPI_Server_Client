@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "1MZ3dVc+Ak3QGlEMqK/IBIC/xdBHZC1EC+vEjRJf7nc=",
+  "Hash": "pzqr1t0xenSokI2VpZ5AQYqrMiDcneGisjqz/otD1XQ=",
   "Source": "WorldCitiesAPI",
   "BasePath": "_content/WorldCitiesAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

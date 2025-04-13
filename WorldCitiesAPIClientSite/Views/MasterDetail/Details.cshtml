@@ -1,0 +1,34 @@
+﻿@model WorldCitiesAPIClientSite.Models.CountryWithCitiesViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Country Details</h2>
+
+<div>
+    <h4>@Model.Country.Name</h4>
+    <p><strong>ISO2:</strong> @Model.Country.ISO2</p>
+    <p><strong>ISO3:</strong> @Model.Country.ISO3</p>
+</div>
+
+@if (Model.Cities != null && Model.Cities.Any())
+{
+    <h4>Related Cities:</h4>
+    <ul>
+        @foreach (var city in Model.Cities)
+        {
+            <li>
+                @city.Name (@city.Lat, @city.Lon)
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p><em>No cities found for this country.</em></p>
+}
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

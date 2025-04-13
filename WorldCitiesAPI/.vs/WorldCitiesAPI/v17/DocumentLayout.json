@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPI\\",
+  "WorkspaceRootPath": "D:\\AspNet Core\\WebAPI_Server_Client\\WorldCitiesAPI\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -13,7 +13,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

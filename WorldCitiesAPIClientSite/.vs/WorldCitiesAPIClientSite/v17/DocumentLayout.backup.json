@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|d:\\idb_r62_juhan\\module09\\worldcitiesapiclientsite\\views\\masterdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\masterdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\masterdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\masterdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|d:\\idb_r62_juhan\\module09\\worldcitiesapiclientsite\\controllers\\masterdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:controllers\\masterdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\masterdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\masterdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\masterdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\masterdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\models\\countrywithcitiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:models\\countrywithcitiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\controllers\\masterdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:controllers\\masterdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\masterdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\masterdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77DA5A22-FDD3-4678-8E42-E5EAA11E00C6}|WorldCitiesAPIClientSite.csproj|solutionrelative:views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,164 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\MasterDetail\\Index.cshtml",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Index.cshtml",
-              "RelativeToolTip": "Views\\MasterDetail\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T06:45:22.952Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Country.cs",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "Models\\Country.cs",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\Country.cs",
-              "RelativeToolTip": "Models\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:31:28.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "City.cs",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\City.cs",
-              "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\City.cs",
-              "RelativeToolTip": "Models\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:31:27.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\Country\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\Create.cshtml",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\Country\\Create.cshtml",
-              "RelativeToolTip": "Views\\Country\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MasterDetail\\Edit.cshtml",
+              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Edit.cshtml",
+              "RelativeToolTip": "Views\\MasterDetail\\Edit.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T06:17:59.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\City\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\City\\Create.cshtml",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\City\\Create.cshtml",
-              "RelativeToolTip": "Views\\City\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T06:17:33.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\CityController.cs",
-              "RelativeToolTip": "Controllers\\CityController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T05:49:18.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\Country\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\Index.cshtml",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\Country\\Index.cshtml",
-              "RelativeToolTip": "Views\\Country\\Index.cshtml",
-              "ViewState": "AgIAADgAAAAAAAAAAAAUwEQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T04:36:36.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "Controllers\\CountryController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T04:32:02.04Z",
+              "WhenOpened": "2025-04-13T03:48:47.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CountryWithCitiesViewModel.cs",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\CountryWithCitiesViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\CountryWithCitiesViewModel.cs",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\CountryWithCitiesViewModel.cs",
-              "RelativeToolTip": "Models\\CountryWithCitiesViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T04:09:37.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\MasterDetail\\Create.cshtml",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Create.cshtml",
-              "RelativeToolTip": "Views\\MasterDetail\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MasterDetail\\Details.cshtml",
+              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Details.cshtml",
+              "RelativeToolTip": "Views\\MasterDetail\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T13:29:49.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T03:48:46.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MasterDetailController.cs",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\MasterDetailController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MasterDetailController.cs",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\MasterDetailController.cs",
-              "RelativeToolTip": "Controllers\\MasterDetailController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwC4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T13:29:19.565Z",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\MasterDetail\\Delete.cshtml",
+              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\MasterDetail\\Delete.cshtml",
+              "RelativeToolTip": "Views\\MasterDetail\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T03:48:46.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\City\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\City\\Index.cshtml",
-              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Views\\City\\Index.cshtml",
-              "RelativeToolTip": "Views\\City\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T05:51:11.258Z",
+              "Title": "CountryWithCitiesViewModel.cs",
+              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\CountryWithCitiesViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CountryWithCitiesViewModel.cs",
+              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Models\\CountryWithCitiesViewModel.cs",
+              "RelativeToolTip": "Models\\CountryWithCitiesViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:48:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterDetailController.cs",
+              "DocumentMoniker": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\MasterDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MasterDetailController.cs",
+              "ToolTip": "D:\\IDB_R62_Juhan\\Module09\\WorldCitiesAPIClientSite\\Controllers\\MasterDetailController.cs",
+              "RelativeToolTip": "Controllers\\MasterDetailController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAQwKUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:48:32.677Z",
               "EditorCaption": ""
             }
           ]

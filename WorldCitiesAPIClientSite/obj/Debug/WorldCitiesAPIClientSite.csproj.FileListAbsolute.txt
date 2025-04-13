@@ -243,3 +243,5 @@ D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\VBCSCompiler.exe
 D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\roslyn\VBCSCompiler.exe.config
 D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\PagedList.dll
 D:\IDB_R62_Juhan\Module09\WorldCitiesAPIClientSite\bin\PagedList.xml
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\PagedList.dll
+E:\IsDB R62\Module_9\WorldCitiesAPIClientSite\bin\PagedList.xml

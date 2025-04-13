@@ -13,9 +13,10 @@ namespace WorldCitiesAPIClientSite.Models
         public string ISO2 { get; set; }
         public string ISO3 { get; set; }
         public Country Country { get; set; }
-        public List<City> Cities { get; set; }
+        public List<City> Cities { get; set; } = new List<City>();
         public CountryWithCitiesViewModel()
         {
+            Country = new Country();
             Cities = new List<City>(); 
         }
     }
